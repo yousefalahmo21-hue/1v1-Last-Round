@@ -1,2 +1,2 @@
-# 1v1-Last-Round
-This is a beautiful Game
+# 1v1-Last-Rounnd
+he can move and grip somthing
